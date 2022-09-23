@@ -1,0 +1,244 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Area */
+
+.page-title{
+    margin: 0;
+    padding: 0;
+    border: solid;
+    border-color: black;
+    background: black;
+}
+
+.page-title{
+    font-family: 'Gruppo', cursive;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 1px;
+}
+
+.area-calculator{
+    border: solid;
+    margin: 24px 23%;
+    width: 800px;
+    height: 240px;
+    background-color: black;
+}
+
+.calculator-name{
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue1, #submitvalue1{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue1{
+    border: solid;
+    color: black;
+}
+
+#submitvalue1{
+    border: solid;
+    border-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#submitvalue1:hover{
+    border-color: grey;
+    background-color: grey;
+    color: white;
+    transition: 200ms;
+}
+
+
+#outputvalue1{
+    border-color: white;
+    color: #FAC213;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+}
+#outputvalue1{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}  
+
+/* Circumference */
+
+.circumference-calculator{
+    border: solid;
+    margin: 24px 23%;
+    width: 800px;
+    height: 240px;
+    background-color: black;
+}
+
+.calculator-name{
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue2, #submitvalue2{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue2{
+    border: solid;
+    color: black;
+}
+
+#submitvalue2{
+    border: solid;
+    border-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#submitvalue1:hover{
+    border-color: grey;
+    background-color: grey;
+    color: white;
+    transition: 200ms;
+}
+
+
+#outputvalue2{
+    border-color: white;
+    color: #FAC213;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+}
+#outputvalue2{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}
+
+/* Diameter */
+
+.diameter-calculator{
+    border: solid;
+    margin: 24px 23%;
+    width: 800px;
+    height: 240px;
+    background-color: black;
+}
+
+#inputvalue3, #submitvalue3{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue3{
+    border: solid;
+    color: black;
+}
+
+#submitvalue3{
+    border: solid;
+    border-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#submitvalue1:hover{
+    border-color: grey;
+    background-color: grey;
+    color: white;
+    transition: 200ms;
+}
+
+
+#outputvalue3{
+    border-color: white;
+    color: #FAC213;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+}
+#outputvalue3{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}
+
+/* Volume */
+
+.volume-calculator{
+    border: solid;
+    margin: 24px 23%;
+    width: 800px;
+    height: 240px;
+    background-color: black;
+}
+
+#inputvalue4, #submitvalue4{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+    color: white;
+}
+
+#inputvalue4{
+    border: solid;
+    color: black;
+}
+
+#submitvalue4{
+    border: solid;
+    border-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#submitvalue1:hover{
+    border-color: grey;
+    background-color: grey;
+    color: white;
+    transition: 200ms;
+}
+
+
+#outputvalue4{
+    border-color: white;
+    color: #FAC213;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Gruppo', cursive;
+    font-size: 24px;
+}
+#outputvalue4{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}
